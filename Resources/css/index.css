@@ -1,0 +1,80 @@
+.banner {
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.lewis-title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main-pic {
+    height: 500px;
+    padding: 10px;
+}
+
+#navbar {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+#navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+    bottom: 0px;
+}
+
+#navbar a {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.likes-heading {
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.likes {
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#link {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#link a {
+    color:blue
+}
+
+#end-pic {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+#end-pic img {
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
